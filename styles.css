@@ -39,6 +39,10 @@ a:active {
   background-color: hsl(120, 100%, 92%);
   height: auto;
   position: relative;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  float:left;
 }
 #cv {
   width: 100vw;
@@ -47,6 +51,10 @@ a:active {
   background-color: hsl(120, 100%, 94%);
   height: auto;
   position: relative;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  float: left;
 }
 #blog {
   width: 100vw;
@@ -55,6 +63,10 @@ a:active {
   background-color: hsl(120, 100%, 96%);
   height: auto;
   position: relative;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  float: left;
 }
 #projects_papers {
   width: 100vw;
@@ -63,6 +75,10 @@ a:active {
   background-color: hsl(120, 100%, 98%);
   height: auto;
   position: relative;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  float: left;
 }
 main {
   font-size: 1em;
