@@ -29,7 +29,7 @@ a:active {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
+  height: 4em;
 }
 #home {
   width: 100vw;
@@ -40,7 +40,7 @@ a:active {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
+  height: 2em;
 }
 #cv {
   width: 100vw;
@@ -51,7 +51,7 @@ a:active {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
+  height: 2em;
 }
 #blog {
   width: 100vw;
@@ -62,7 +62,7 @@ a:active {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
+  height: 2em;
 }
 #projects_papers {
   width: 100vw;
@@ -73,7 +73,7 @@ a:active {
   padding-top: 0;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
+  height: 2em;
 }
 main {
   font-size: 1em;
