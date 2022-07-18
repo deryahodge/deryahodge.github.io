@@ -24,26 +24,31 @@ a:active {
   width: 100vw;
   text-align: center;
   font-size: 1.2em;
+  background-color: hsl(120, 100%, 90%)
 }
 #home {
   width: 100vw;
   text-align: center;
   font-size: 1em;
+  background-color: hsl(120, 100%, 92%)
 }
 #cv {
   width: 100vw;
   text-align: center;
   font-size: 1em;
+  background-color: hsl(120, 100%, 94%)
 }
 #blog {
   width: 100vw;
   text-align: center;
   font-size: 1em;
+  background-color: hsl(120, 100%, 96%)
 }
 #projects_papers {
   width: 100vw;
   text-align: center;
   font-size: 1em;
+  background-color: hsl(120, 100%, 98%)
 }
 main {
   font-size: 0.8em;
