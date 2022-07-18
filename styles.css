@@ -27,6 +27,8 @@ a:active {
   background-color: hsl(120, 100%, 90%);
   padding-bottom: 0;
   padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 #home {
   width: 100vw;
@@ -35,6 +37,8 @@ a:active {
   background-color: hsl(120, 100%, 92%);
   padding-bottom: 0;
   padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 #cv {
   width: 100vw;
@@ -43,6 +47,8 @@ a:active {
   background-color: hsl(120, 100%, 94%);
   padding-bottom: 0;
   padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 #blog {
   width: 100vw;
@@ -51,6 +57,8 @@ a:active {
   background-color: hsl(120, 100%, 96%);
   padding-bottom: 0;
   padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 #projects_papers {
   width: 100vw;
@@ -59,6 +67,8 @@ a:active {
   background-color: hsl(120, 100%, 98%);
   padding-bottom: 0;
   padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 main {
   font-size: 1em;
