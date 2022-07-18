@@ -21,6 +21,7 @@ a:active {
   text-decoration: none
 }
 #head {
+  box-sizing: content-box;
   width: 100vw;
   text-align: center;
   font-size: 1.2em;
@@ -32,6 +33,7 @@ a:active {
   height: auto;
 }
 #home {
+  box-sizing: content-box;
   width: 100vw;
   text-align: center;
   font-size: 1em;
@@ -43,6 +45,7 @@ a:active {
   height: auto;
 }
 #cv {
+  box-sizing: content-box;
   width: 100vw;
   text-align: center;
   font-size: 1em;
@@ -54,6 +57,7 @@ a:active {
   height: auto;
 }
 #blog {
+  box-sizing: content-box;
   width: 100vw;
   text-align: center;
   font-size: 1em;
@@ -65,6 +69,7 @@ a:active {
   height: auto;
 }
 #projects_papers {
+  box-sizing: content-box;
   width: 100vw;
   text-align: center;
   font-size: 1em;
