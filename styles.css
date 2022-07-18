@@ -1,3 +1,32 @@
+html {
+  font-size: 100%
+}
 h1 {
   color: green
+  }
+h2 {
+
+}
+#head {
+  width: 100vw;
+  font-size: 1.5em;
+}
+#home {
+  width: 100vw;
+  font-size: 1.2em;
+}
+#cv {
+  width: 100vw;
+  font-size: 1.2em;
+}
+#blog {
+  width: 100vw;
+  font-size: 1.2em;
+}
+#projects_papers {
+  width: 100vw;
+  font-size: 1.2em;
+}
+main {
+  font-size: 0.875em;
 }
