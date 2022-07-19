@@ -26,7 +26,7 @@ a:active {
   font-size: 1.2em;
   background-color: hsl(120, 100%, 90%);
   height: 2.4em;
-  position: relative;
+  float: left;
 }
 #home {
   width: 100vw;
@@ -34,7 +34,7 @@ a:active {
   font-size: 1em;
   background-color: hsl(120, 100%, 92%);
   height: 2em;
-  position: relative;
+  float: left;
 }
 #cv {
   width: 100vw;
@@ -42,7 +42,7 @@ a:active {
   font-size: 1em;
   background-color: hsl(120, 100%, 94%);
   height: 2em;
-  position: relative;
+  float: left;
 }
 #blog {
   width: 100vw;
@@ -50,7 +50,7 @@ a:active {
   font-size: 1em;
   background-color: hsl(120, 100%, 96%);
   height: 2em;
-  position: relative;
+  float: left;
 }
 #projects_papers {
   width: 100vw;
@@ -58,7 +58,7 @@ a:active {
   font-size: 1em;
   background-color: hsl(120, 100%, 98%);
   height: 2em;
-  position: relative;
+  float: left;
 }
 main {
   font-size: 1em;
