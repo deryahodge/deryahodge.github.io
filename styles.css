@@ -30,7 +30,7 @@ a:active {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  position: relative;
+  position: fixed;
 }
 #home {
   width: 100vw;
@@ -42,7 +42,7 @@ a:active {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  position: relative;
+  position: fixed;
 }
 #cv {
   width: 100vw;
@@ -54,7 +54,7 @@ a:active {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  position: relative;
+  position: fixed;
 }
 #blog {
   width: 100vw;
@@ -66,7 +66,7 @@ a:active {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  position: relative;
+  position: fixed;
 }
 #projects_papers {
   width: 100vw;
@@ -78,7 +78,7 @@ a:active {
   margin: 0px;
   padding: 0px;
   border: 0px;
-  position: relative;
+  position: fixed;
 }
 main {
   font-size: 1em;
