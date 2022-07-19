@@ -27,7 +27,7 @@ a:active {
   background-color: hsl(120, 100%, 90%);
   height: auto;
   float: left;
-  margin: 0px;
+  margin: 0px 0px 0px -4px;
   padding: 0px;
   border: 0px;
   position: fixed;
@@ -39,7 +39,7 @@ a:active {
   background-color: hsl(120, 100%, 92%);
   height: auto;
   float: left;
-  margin: 0px;
+  margin: 0px 0px 0px -4px;
   padding: 0px;
   border: 0px;
   position: fixed;
@@ -51,7 +51,7 @@ a:active {
   background-color: hsl(120, 100%, 94%);
   height: auto;
   float: left;
-  margin: 0px;
+  margin: 0px 0px 0px -4px;
   padding: 0px;
   border: 0px;
   position: fixed;
@@ -63,7 +63,7 @@ a:active {
   background-color: hsl(120, 100%, 96%);
   height: auto;
   float: left;
-  margin: 0px;
+  margin: 0px 0px 0px -4px;
   padding: 0px;
   border: 0px;
   position: fixed;
@@ -75,7 +75,7 @@ a:active {
   background-color: hsl(120, 100%, 98%);
   height: auto;
   float: left;
-  margin: 0px;
+  margin: 0px 0px 0px -4px;
   padding: 0px;
   border: 0px;
   position: fixed;
