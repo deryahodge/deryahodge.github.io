@@ -9,18 +9,6 @@ h1 {
 h2 {
   color: black;
 }
-a:link {
-  text-decoration: none
-}
-a:visited {
-  text-decoration: none
-}
-a:hover {
-  text-decoration: none
-}
-a:active {
-  text-decoration: none
-}
 #head {
   width: 100vw;
   text-align: center;
@@ -75,6 +63,19 @@ a:active {
   margin: 0px;
   padding: 0px;
   position: relative;
+}
+a:link {
+  text-decoration: none
+}
+a:visited {
+  text-decoration: none
+}
+a:hover {
+  text-decoration: none;
+  background-color: hsl(180, 100%, 90%);
+}
+a:active {
+  text-decoration: none
 }
 main {
   font-size: 1em;
